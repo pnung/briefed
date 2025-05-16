@@ -6,3 +6,4 @@ High-throughput news aggregator with custom summarization
 - Scrapes 50+ news sources
 - Custom TextRank summarization
 - Redis caching layer
+- Dockerized deployment
