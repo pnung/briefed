@@ -1,4 +1,10 @@
-fastapi==0.95.2
-uvicorn==0.22.0
-beautifulsoup4==4.12.2
+fastapi==0.109.2
+uvicorn==0.27.0
+beautifulsoup4==4.12.3
+requests==2.31.0
 python-dotenv==1.0.0
+psycopg2-binary==2.9.9
+redis==5.0.1
+prometheus-client==0.20.0
+nltk==3.8.1
+feedparser==6.0.11
